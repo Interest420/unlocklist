@@ -882,7 +882,7 @@
       "Mod": "Core",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "EggBox": {
